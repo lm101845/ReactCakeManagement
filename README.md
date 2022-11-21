@@ -1,0 +1,2 @@
+# ReactCakeManagement
+使用React和UmiJS、LeanCloud等技术创建的蛋糕管理系统。
